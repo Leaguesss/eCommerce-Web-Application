@@ -1,0 +1,36 @@
+.register-card{
+    width: 40%;
+    font-size: 14pt;
+}
+.formTitle{
+    width: 100%;
+    text-align: center;
+    border-radius: inherit;
+}
+.errorInfo{
+    font-size: 9pt;
+}
+.loginText {
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+}
+.registrationForm{
+    width: 100%;
+}
+label{
+    margin-bottom: 1%;
+}
+.inputBox{
+    margin-bottom: 2%;
+}
+.hv-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.successMessage {
+    color: green;
+    font-weight: bold;
+}

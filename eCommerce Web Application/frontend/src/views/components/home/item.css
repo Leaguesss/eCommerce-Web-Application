@@ -1,0 +1,67 @@
+h5, #itemReviews {
+    margin: 0.5em;
+    font-weight: bolder;
+}
+
+#itemTable {
+    margin-top: 1em;
+}
+
+#itemImage {
+    margin: 0.5em;
+    max-width: 200px;
+}
+
+.itemDetails, .itemTitle {
+    padding-top: 0.5em;
+    padding-left: 2em;
+    vertical-align: top;
+}
+
+.itemTitle div p {
+    font-weight: bolder;
+}
+
+.btn-hover {
+    width: 150px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 1.5em;
+    height: 50px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 5px;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+.btn-hover.color-3 {
+    background-image: linear-gradient(to right, rgb(146, 148, 248), rgba(146, 148, 248, 0.4), rgb(146, 148, 248));
+    box-shadow: 0 4px 15px 0 rgba(146, 148, 248, 0.4);
+}
+
+#currentQuantity {
+    padding-top: 2.1em;
+    color: lightgray;
+}
+
+#itemSeller {
+    margin-top: 1.5em;
+    margin-left: 0.5em;
+    font-style: italic;
+    color: lightgray;
+}

@@ -1,0 +1,15 @@
+#checkoutContrl {
+    overflow: hidden;
+}
+
+#totalPrice {
+    padding-top: 1em;
+    font-size: 1.25em;
+    font-weight: bold;
+    float: left;
+}
+
+#checkoutConfirm {
+    margin: 0.9em 0 0.9em 0;
+    float: right;
+}

@@ -1,0 +1,24 @@
+h4 {
+    margin-top: 1.5em;
+    font-weight: bold;
+}
+
+.homeImg {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5em;
+    max-width: 150px;
+}
+
+.homeTableTitle {
+    display: block;
+    margin: 2em 0 0 0.5em;
+    font-size: 25px;
+    line-height: 25px;
+    color: black;
+    text-shadow: 0 5px 5px #9c9993;
+}
+
+.homeTableHeaders {
+    font-size: 20px;
+}
